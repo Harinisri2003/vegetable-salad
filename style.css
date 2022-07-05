@@ -1,0 +1,72 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: cornflowerblue;
+}
+.container{
+    width: 100vw;
+    height: 169vh;
+    background-color: purple;
+}
+#heading{
+    text-align: center;
+    color: orchid;
+}
+#vegetableSaladImage{
+    width: 50vw;
+    height: 100vh;
+    margin: auto;
+    display: block;
+}
+#benefits{
+    text-align: center;
+    color: burlywood;
+}
+#benefitsParagraph{
+    color: gainsboro;
+    margin-left: 100px;
+}
+#steps{
+    text-align: center;
+    color: deepskyblue;
+}
+ul{
+    list-style-type: circle;
+}
+ul li{
+    padding: 5px;
+    font-size: large;
+    color: palevioletred;
+list-style-position: inherit;
+list-style: inside;
+font-style: oblique;
+font-feature-settings: "blwf";
+font-stretch: extra-expanded;
+margin-left: 50px; 
+}
+#li-1{
+    margin-left: 100px;
+}
+#li-2{
+    margin-left: 50px;
+}
+#li-3{
+    margin-left: 200px;
+}
+#li-4{
+    margin-left: 70px;
+}
+#li-5{
+    margin-left: 40px;
+}
+#li-6{
+    margin-left: 80px;
+}
+#li-7{
+    margin-left: 60px;
+}
+#footerText{
+    text-align: center;
+}
